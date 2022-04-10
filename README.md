@@ -1,4 +1,4 @@
-Deployement Link: https://sidharathbansal.github.io/Weather-App/
+Try the App: https://sidharathbansal.github.io/Weather-App/
 
 ![](images/React-App.png)
 
